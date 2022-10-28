@@ -8,3 +8,5 @@ The latter had an accuracy of aroun 96.38% on the test data, with a maximum dept
  The problem with this is that even though the percentage sounds very high, in reality, it is partially due to the fact that the data that we have are substantially unbalanced. This means that we have a tiny percentage of fraudulent postings. To be precise, if we were to guess all postings in the dataset as non-fraudulent, we would get 95.16% accuracy. So can we say that this model is actually good? Most definitely not!  
    
 This has been a good lesson as to dealing with imbalanced dataset when trying to make predictions.
+  
+![dt](decistion_tree.png)
