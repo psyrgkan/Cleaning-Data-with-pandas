@@ -9,4 +9,4 @@ The latter had an accuracy of aroun 96.38% on the test data, with a maximum dept
    
 This has been a good lesson as to dealing with imbalanced dataset when trying to make predictions.
   
-![dt](decision_tree.png)
+![dt](decistion_tree.png)
