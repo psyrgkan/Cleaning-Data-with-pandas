@@ -1,0 +1,6 @@
+,country,state,has_reqs,telecommuting,has_company_logo,has_questions,has_industry,has_salary,fraudulent
+0,34,62,1,0,1,0,0,0,0
+1,0,44,1,0,1,0,1,0,0
+2,34,51,1,0,1,0,0,0,0
+3,34,41,1,0,1,0,1,0,0
+4,34,69,1,0,1,1,1,0,0
